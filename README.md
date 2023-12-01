@@ -33,6 +33,24 @@ Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adh
 
 ## Tampilan Website E-Commerce
 ![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/8b11a6a8-6b85-4c3a-a369-7919d335b340)
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/9da67985-aa4a-4273-830c-81c80889867f)
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/e91f5646-06fb-463f-974b-af1674241885)
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/6467fd3e-cd1f-4799-804f-fe9419ad8b43)
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/11ec9f23-12c1-478b-a1e8-8b82854de97d)
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/34b630b9-4935-40e3-9488-7e3a2f4e727d)
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/5f8f9ee1-a0be-4c08-aff4-cbf87c79e242)
+
+## Struktur database di phpMyAdmin
+<img width="520" alt="image" src="https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/7546ea75-90b7-4d8e-bbee-868adffc1483">
+
+## Designer di phpMyAdmin
+
+
+
+
+
+
+
 
 
 ---

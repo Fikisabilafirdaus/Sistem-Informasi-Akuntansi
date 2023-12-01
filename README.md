@@ -1,8 +1,10 @@
-<h1 align="center">Selamat datang di Toko Online! 👋</h1>
+<h1 align="center">UAS Sistem Informasi Akuntansi 👋</h1>
 
-## Apa itu Toko Online?
-
-Web Toko Online yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **Toko Online adalah Website penjualan secara online untuk seseorang yang inggin membeli suatu produk melalui website dengan mudah.**
+## Sistem Informasi E-Commerce menggunkana laravel 7
+ **Nama: Fiki Sabila Firdaus**
+ **12030122120019**
+ **Program Studi Akuntansi**
+Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>.
 
 ## Fitur apa saja yang tersedia di Toko Online?
 
@@ -15,9 +17,23 @@ Web Toko Online yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi 
 
 ## Release Date
 
-**Release date : 28 Apr 2020**
+**Release date : 1 Desember 2023**
 
-> Toko Online merupakan project open source yang dibuat oleh Adhi Ariyadi. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
+**Fiture Requirements**
+1. Setiap User Harus Melakukan Login atau register Untuk Dapat Mengakses Web.
+2. Lengkapi profile dengan mengisi data diri dan alamat secara benar.
+3. Satu user hanya dapat memiliki satu profile
+4. setiap user dapat mengubah profilenya masing
+5. User dapat memulai menggunakan web dengan cara mengeklik bar search di bagian home.
+6. Setelah menemukan barang yang diinginkan, user dapat mengeklik tombol keranjang.
+7. Setelah masuk keranjang lanjut ke proses pembayaran.
+8. Pembayaran dapat dilakukan melalui transfer bank atau menggunakan sistem cod.
+9. Setelah menentukan sistem  pembayaran maka pesanan sudah dikonfirmasi ke penjual atau seller dan user hanya perlu menunggu barang sampai.
+10. Setelah barang sampai user wajib mengkonfirmasi dengan mengeklik tombol pesanan diterima dan user juga bisa memberikan komentar dan ulasan terhadap produk yang dibelinya tersebut.
+
+## Tampilan Website E-Commerce
+![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/8b11a6a8-6b85-4c3a-a369-7919d335b340)
+
 
 ---
 

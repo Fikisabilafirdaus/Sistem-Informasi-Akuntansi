@@ -1,6 +1,6 @@
 <h1 align="center">UAS Sistem Informasi Akuntansi 👋</h1>
 
-## Sistem Informasi E-Commerce menggunkana laravel 7
+## Sistem Informasi E-Commerce menggunkan laravel 7
  **Nama: Fiki Sabila Firdaus**
  **12030122120019**
  **Program Studi Akuntansi**

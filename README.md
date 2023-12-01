@@ -44,7 +44,10 @@ Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adh
 <img width="520" alt="image" src="https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/7546ea75-90b7-4d8e-bbee-868adffc1483">
 
 ## Designer di phpMyAdmin
+<img width="960" alt="image" src="https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/a652938b-2664-41b5-8447-93fb45b99e7b">
 
+## Flowchart 
+![SIA](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/de87a8e5-b9fb-4e24-bf30-0b82a74283e1)
 
 
 

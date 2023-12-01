@@ -32,7 +32,7 @@ Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adh
 10. Setelah barang sampai user wajib mengkonfirmasi dengan mengeklik tombol pesanan diterima dan user juga bisa memberikan komentar dan ulasan terhadap produk yang dibelinya tersebut.
 
 ## Tampilan Website E-Commerce
-![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/8b11a6a8-6b85-4c3a-a369-7919d335b340)
+<img width="960" alt="image" src="https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/2cdc1feb-8ee2-46e4-adcd-61ded61c98c7">
 ![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/9da67985-aa4a-4273-830c-81c80889867f)
 ![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/e91f5646-06fb-463f-974b-af1674241885)
 ![image](https://github.com/Fikisabilafirdaus/Sistem-Informasi-Akuntansi/assets/152597138/6467fd3e-cd1f-4799-804f-fe9419ad8b43)

@@ -4,7 +4,7 @@
  **Nama: Fiki Sabila Firdaus**
  **12030122120019**
  **Program Studi Akuntansi**
-Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>.
+Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. https://github.com/adhiariyadi/Toko-Online-Laravel 
 
 ## Fitur apa saja yang tersedia di Toko Online?
 

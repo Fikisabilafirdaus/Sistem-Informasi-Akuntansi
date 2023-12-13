@@ -1,4 +1,4 @@
-<h1 align="center">UAS Sistem Informasi Akuntansi 👋</h1>
+<h1 align="center">UAS Sistem Informasi Akuntansi </h1>
 
 ## Sistem Informasi E-Commerce menggunkan laravel 7
 

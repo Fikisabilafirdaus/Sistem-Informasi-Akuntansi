@@ -1,9 +1,17 @@
 <h1 align="center">UAS Sistem Informasi Akuntansi 👋</h1>
 
 ## Sistem Informasi E-Commerce menggunkan laravel 7
- **Nama: Fiki Sabila Firdaus**
- **12030122120019**
- **Program Studi Akuntansi**
+
+ 🧑 Profil Pemilik
+
+| Profile | Keterangan  |
+|---------|--------------|
+| Nama    | Fiki Sabila Firdaus |
+| NIM | 12030122120019 |
+| Program Studi | Akuntansi |
+| Dosen Pembimbing | Dr. Totok Dewayanto, S.E.,M.Si., Akt. |
+| Kampus  | Universitas Diponegoro |
+
 Web Toko Online ini di clone dari  <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. https://github.com/adhiariyadi/Toko-Online-Laravel 
 
 ## Fitur apa saja yang tersedia di Toko Online?
